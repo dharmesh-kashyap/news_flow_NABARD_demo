@@ -1,0 +1,12 @@
+Flask
+Werkzeug
+Jinja2
+flask-login
+requests
+beautifulsoup4
+mysql-connector-python
+reportlab
+playwright
+groq
+crawl4ai
+flask_mail
